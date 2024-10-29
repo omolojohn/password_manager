@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+# If using pipenv
+Pipfile.lock
+
+# pyenv environment files
+.python-version
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest and coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pylint reports
+pylint-report/
+
+# Pycharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# Local development directories
+*.log
+*.env
+*.DS_Store
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Generated files
+dist/
+build/
+*.egg-info/
+.eggs/
